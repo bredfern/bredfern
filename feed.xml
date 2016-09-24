@@ -15,9 +15,7 @@
       <pubDate>Sat, 24 Sep 2016 01:24:30 -0700</pubDate>
       
       <guid>https://www.jacknice.com/post/creative-chromeos/</guid>
-      <description>&lt;p&gt;##Creative Chrome OS&lt;/p&gt;
-
-&lt;p&gt;Back when Chrome Os first came out Steve Ballmer was still the CEO of Microsoft. He basically wrote these machines off as fancy paper weights.&lt;/p&gt;
+      <description>&lt;p&gt;Back when Chrome Os first came out Steve Ballmer was still the CEO of Microsoft. He basically wrote these machines off as fancy paper weights.&lt;/p&gt;
 
 &lt;p&gt;But when you run a chrome os device in developer mode there is actually quite a lot you can do.&lt;/p&gt;
 
@@ -53,7 +51,12 @@
       <pubDate>Fri, 23 Sep 2016 23:24:54 -0700</pubDate>
       
       <guid>https://www.jacknice.com/post/frequency-scaling/</guid>
-      <description></description>
+      <description>&lt;p&gt;You actually need to roll your own kernel on chromeos for this but for raspberry pi3 its pretty easy to switch off the power management. For a laptop you might not want to do this, it will burn your battery faster.&lt;/p&gt;
+
+&lt;p&gt;But if you want full performance you need to shut off the frequency scaling. Also having a low latency kernel build helps.&lt;/p&gt;
+
+&lt;p&gt;Its easier to do this on the pi3 because its not sharing a kernel with chromeos but you can build a  new chromeos kernel from source, something you definitely can&amp;rsquo;t do on windows or macosx.&lt;/p&gt;
+</description>
     </item>
     
     <item>
