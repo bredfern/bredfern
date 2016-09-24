@@ -1,4 +1,4 @@
-BaseURL = "http://coderzh.github.io/"
+BaseURL = "http://bredfern.github.io/"
 LanguageCode = "en-US"
 HasCJKLanguage = true
 Title = "Jack Nice"
@@ -50,4 +50,3 @@ RSSUri = "feed.xml"
     Name = "About"
     URL = "/about"
     Weight = 2
-
