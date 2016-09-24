@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Jack Nice</title>
-    <link>https://jacknice.com/post/</link>
+    <link>https://www.jacknice.com/post/</link>
     <description>Recent content in Posts on Jack Nice</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Fri, 23 Sep 2016 23:24:54 -0700</lastBuildDate>
-    <atom:link href="https://jacknice.com/post/feed/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.jacknice.com/post/feed/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>frequency scaling</title>
-      <link>https://jacknice.com/post/frequency-scaling/</link>
+      <link>https://www.jacknice.com/post/frequency-scaling/</link>
       <pubDate>Fri, 23 Sep 2016 23:24:54 -0700</pubDate>
       
-      <guid>https://jacknice.com/post/frequency-scaling/</guid>
+      <guid>https://www.jacknice.com/post/frequency-scaling/</guid>
       <description></description>
     </item>
     
