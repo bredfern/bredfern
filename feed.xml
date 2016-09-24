@@ -6,8 +6,46 @@
     <description>Recent content on Jack Nice</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Fri, 23 Sep 2016 23:24:54 -0700</lastBuildDate>
+    <lastBuildDate>Sat, 24 Sep 2016 01:24:30 -0700</lastBuildDate>
     <atom:link href="https://www.jacknice.com/feed/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>creative chromeos</title>
+      <link>https://www.jacknice.com/post/creative-chromeos/</link>
+      <pubDate>Sat, 24 Sep 2016 01:24:30 -0700</pubDate>
+      
+      <guid>https://www.jacknice.com/post/creative-chromeos/</guid>
+      <description>&lt;p&gt;##Creative Chrome OS&lt;/p&gt;
+
+&lt;p&gt;Back when Chrome Os first came out Steve Ballmer was still the CEO of Microsoft. He basically wrote these machines off as fancy paper weights.&lt;/p&gt;
+
+&lt;p&gt;But when you run a chrome os device in developer mode there is actually quite a lot you can do.&lt;/p&gt;
+
+&lt;p&gt;Before boot load locking became the norm with windows devices it was easy to buy a windows machine and then entirely blow off windows for Linux.&lt;/p&gt;
+
+&lt;p&gt;Back then you often had to dual boot windows in order to use certain software that was unavailable on linux, these were mostly expensive creative tools, photoshop, 3d studio max, premier, protools.&lt;/p&gt;
+
+&lt;p&gt;For many they simply moved to macosx, dual booting wasn&amp;rsquo;t worth the bother and with a mac you could run your protools and have your unix environment at the same time. But you were also at the mercy of the whims of Apple.&lt;/p&gt;
+
+&lt;p&gt;But there was also the breed of digital creative who found they enjoyed working with the open source tools. Sure we don&amp;rsquo;t have protools on Linux but we do have the amazing &lt;a href=&#34;https://ardour.org/&#34;&gt;ardour&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Anything that is lacking is an opportunity to fill the void so many amazing tools that don&amp;rsquo;t follow the standard DAW methodolody are also available.&lt;/p&gt;
+
+&lt;p&gt;The great thing is that all these linux creative tools are accessible from the developer mode of chromeos.&lt;/p&gt;
+
+&lt;p&gt;You also have commercial tools for music that have migrated to linux, these require a chromeos device with an intel chipset, the free and open source tools do not, but really resource intensive tools such as Blender won&amp;rsquo;t run as well on lower end chromeos hardware.&lt;/p&gt;
+
+&lt;p&gt;Some tool such as csound that can be run in command line render mode can even be used well on very low end chromeos devices because it doesn&amp;rsquo;t require realtime use (although most intel based systems are fast enough to run some instruments in realtime).&lt;/p&gt;
+
+&lt;p&gt;I use an asus chromebox with 4 gigs of ram, it has a dual core celeron, not a scream machine but I am able to use the commercial &lt;a href=&#34;https://renoise.com&#34;&gt;renoise&lt;/a&gt; DAW in real time, removing the need for me to run a windows system for desktop music production.&lt;/p&gt;
+
+&lt;p&gt;I also use the &lt;a href=&#34;https://soundtrap.com&#34;&gt;soundtrap&lt;/a&gt; web based DAW, for $9 a month its nice to be able to ultimately back up entire compositions on the cloud and collaborate remotely with other artists.&lt;/p&gt;
+
+&lt;p&gt;But I like being able to mix up local application output with soundtrap, using it alone I would have to rely on their loops for drum parts.&lt;/p&gt;
+
+&lt;p&gt;I&amp;rsquo;ll be writing more about how to turn your chromeos device into a machine for fun with music and audio. I&amp;rsquo;ll also talk about other creative tools that help you produce content for html5 and mobile app development.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>frequency scaling</title>
@@ -26,13 +64,15 @@
       <guid>https://www.jacknice.com/about/</guid>
       <description>
 
-&lt;h2 id=&#34;关于:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;关于&lt;/h2&gt;
+&lt;h2 id=&#34;jack-nice:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;Jack Nice&lt;/h2&gt;
 
-&lt;h3 id=&#34;hugo:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;Hugo&lt;/h3&gt;
+&lt;p&gt;Linux is powerful but its not a normal tool for artists.&lt;/p&gt;
 
-&lt;h3 id=&#34;主题:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;主题&lt;/h3&gt;
+&lt;p&gt;While many things can be done with macosx its also not affordable for many artists.&lt;/p&gt;
 
-&lt;p&gt;balabalbalbalbal&amp;hellip;&lt;/p&gt;
+&lt;p&gt;I created this site to help artists learn how to use Linux as a tool for new media production. Ultimately html5 is a great tool but you need other tools to develop content for html5 presentation.&lt;/p&gt;
+
+&lt;p&gt;Linux can fill in the gap to provide those creative tools and I tell you how to do it cheaply and easily.&lt;/p&gt;
 </description>
     </item>
     
