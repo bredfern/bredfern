@@ -1,0 +1,52 @@
+BaseURL = "http://bredfern.github.io/"
+LanguageCode = "en-US"
+HasCJKLanguage = true
+Title = "Jack Nice"
+Theme = "hugo-pacman-theme"
+pygmentsStyle = "default"
+pygmentsUseClasses = true
+RSSUri = "feed.xml"
+
+[Author]
+  Name = "Jack Nice"
+
+[Params]
+  AuthorHomepage = "http://jacknice.com"
+  BottomIntroduce = "Linux Audio is Fun"
+  Description = "Using all kinds of technologies to make interesting sounds."
+  Subtitle = "hacking music is hard"
+  Twitter = "jacknicemusic"
+  GitHub = "bredfern"
+  Imglogo = "img/logo.svg"
+  AuthorImg = "img/author.jpg"
+  DateFormat = "2006-01-02"
+  MonthFormat = "2006-01"
+  FancyBox = true
+
+  [Params.Disqus]
+    ShortName = "jack-nice"
+
+  [Params.GoogleAnalytics]
+    ID = "UA-10147768-2"
+
+  [Params.Strings]
+    Search = "Search"
+    PageNotFound = "Page not found!"
+    ShowSideBar = "Show"
+    HideSideBar = "Hide"
+    Categories = "Categories"
+    Archive = "Archive"
+    Tags = "Tags"
+    TagCloud = "Cloud"
+    Rss = "RSS Feed"
+    TableOfContents = "Contents"
+
+[Menu]
+  [[Menu.Main]]
+    Name = "Home"
+    URL = "/"
+    Weight = 1
+  [[Menu.Main]]
+    Name = "About"
+    URL = "/about"
+    Weight = 2
