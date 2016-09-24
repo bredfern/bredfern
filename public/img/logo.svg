@@ -1,0 +1,180 @@
+<?xml version="1.0"?>
+<svg
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns="http://www.w3.org/2000/svg"
+    xmlns:cc="http://creativecommons.org/ns#"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:svg="http://www.w3.org/2000/svg"
+    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+    xmlns:ns1="http://sozi.baierouge.fr"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    id="svg5563"
+    viewBox="0 0 224.19 255.9"
+    version="1.1"
+  >
+  <g
+      id="layer1"
+      transform="translate(-175.47 -369.18)"
+    >
+    <g
+        id="g5448"
+        stroke-linejoin="round"
+        stroke="#000"
+        stroke-linecap="round"
+        transform="matrix(.92102 0 0 .92371 485.24 -157.72)"
+      >
+      <path
+          id="path5371"
+          stroke-width="8.1509"
+          transform="matrix(1.067 0 0 1.0065 -7.6171 533.28)"
+          fill="#f4c441"
+          d="m-84 198.09c0 60.751-49.249 110-110 110s-110-49.249-110-110 49.249-110 110-110 110 49.249 110 110z"
+      />
+      <g
+          id="g5417"
+          fill="#f4c441"
+          transform="translate(3e-7 .0000048280)"
+        >
+        <path
+            id="path5382"
+            stroke-width="3.1111"
+            transform="matrix(1.2357 0 0 1.5725 55.994 153.84)"
+            d="m-150 368.09c0 38.108-30.892 69-69 69s-69-30.892-69-69 30.892-69 69-69 69 30.892 69 69z"
+        />
+        <path
+            id="path5382-2"
+            stroke-width="4.9268"
+            transform="matrix(.49273 0 0 1.5725 -106.72 153.84)"
+            d="m-150 368.09c0 38.108-30.892 69-69 69s-69-30.892-69-69 30.892-69 69-69 69 30.892 69 69z"
+        />
+      </g
+      >
+      <g
+          id="g5373"
+          transform="translate(37.375 26.671)"
+        >
+        <path
+            id="path3993-3"
+            d="m249.83 392.43 16.506-28.589 16.506-28.589 16.506 28.589 16.506 28.589h-33.012z"
+            stroke-width="5.4209"
+            transform="matrix(.78898 0 0 .78898 -513.81 383.87)"
+        />
+        <path
+            id="path3993-5-8"
+            d="m249.83 392.43 16.506-28.589 16.506-28.589 16.506 28.589 16.506 28.589h-33.012z"
+            stroke-width="5.421"
+            transform="matrix(.78898 0 0 .78898 -436.5 383.87)"
+        />
+        <path
+            id="path4023-7"
+            stroke-width="4.2771"
+            d="m-315.03 730.14c4.2906 18.256 17.321 33.384 34.69 41.224l0.074-0.1233 8.654-15.163 8.6294 15.163 3.1806 5.5968c2.1751 0.21446 4.3729 0.32054 6.6077 0.32054s4.4326-0.10616 6.6077-0.32054l3.1805-5.5968 8.6294-15.163 8.6541 15.163 0.074 0.1233c17.369-7.8403 30.4-22.968 34.69-41.224h-13.265l-6.1145 10.651-6.1146 10.651-6.0899-10.651-6.1146-10.651h-41.964l-6.1146 10.651-6.1146 10.651-6.0899-10.651-6.1145-10.651h-19.576z"
+        />
+      </g
+      >
+      <path
+          id="path5371-6"
+          stroke-width="8.4468"
+          fill="#658e29"
+          d="m-214.38 620.9c-16.106 0-31.248 3.6998-44.482 10.222-2.9567 5.7413-5.7169 10.686-4.2862 11.376 7.676 3.7041 18.407-5.8244 23.699-3.2709 4.7692 2.3014 11.25 10.89 19.163 7.0709 2.9126-1.4055 6.5658-10.985 11.289-8.7064 6.9819 3.3692 8.6075 10.154 13.532 12.53 0.61038 0.29455 9.6347-6.3624 11.837-7.0709 7.2806-2.3422 14.922 7.364 21.431 1.0823 2.4404-2.3552 3.1078-4.7116 2.816-6.9747-15.443-10.229-34.438-16.258-54.998-16.258z"
+      />
+      <path
+          id="path5446"
+          stroke-width="8.4468"
+          fill="#658e29"
+          d="m-223.41 628.41c0.74425-5.8454 1.4885-11.691 2.2328-17.536 1.723-13.533 12.714-25.65 22.792-33.452 3.7639-2.9137 25.629-4.0324 21.49-0.82793-12.984 10.051-24.992 35.285-22.666 54.852"
+      />
+    </g
+    >
+  </g
+  >
+  <metadata
+    >
+    <rdf:RDF
+      >
+      <cc:Work
+        >
+        <dc:format
+          >image/svg+xml</dc:format
+        >
+        <dc:type
+            rdf:resource="http://purl.org/dc/dcmitype/StillImage"
+        />
+        <cc:license
+            rdf:resource="http://creativecommons.org/licenses/publicdomain/"
+        />
+        <dc:publisher
+          >
+          <cc:Agent
+              rdf:about="http://openclipart.org/"
+            >
+            <dc:title
+              >Openclipart</dc:title
+            >
+          </cc:Agent
+          >
+        </dc:publisher
+        >
+        <dc:title
+          >Jack-o'-Lantern</dc:title
+        >
+        <dc:date
+          >2013-10-07T00:21:37</dc:date
+        >
+        <dc:description
+          >Jack-o'-Lantern</dc:description
+        >
+        <dc:source
+          >https://openclipart.org/detail/184651/pumpkin-by-libberry-184651</dc:source
+        >
+        <dc:creator
+          >
+          <cc:Agent
+            >
+            <dc:title
+              >libberry</dc:title
+            >
+          </cc:Agent
+          >
+        </dc:creator
+        >
+        <dc:subject
+          >
+          <rdf:Bag
+            >
+            <rdf:li
+              >halloween</rdf:li
+            >
+            <rdf:li
+              >jack-o'-lantern</rdf:li
+            >
+            <rdf:li
+              >pumpkin</rdf:li
+            >
+          </rdf:Bag
+          >
+        </dc:subject
+        >
+      </cc:Work
+      >
+      <cc:License
+          rdf:about="http://creativecommons.org/licenses/publicdomain/"
+        >
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#Reproduction"
+        />
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#Distribution"
+        />
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#DerivativeWorks"
+        />
+      </cc:License
+      >
+    </rdf:RDF
+    >
+  </metadata
+  >
+</svg
+>
