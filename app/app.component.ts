@@ -2,7 +2,7 @@ import { Component } from '@angular/core';
 
 @Component({
   selector: 'my-app',
-  templateUrl: 'templates/app.component.html'
+  templateUrl: 'http://jacknice.com/templates/app.component.html'
 })
 
 export class AppComponent implements OnInit  {
@@ -65,7 +65,7 @@ export class AppComponent implements OnInit  {
     
     fetchSnare(): Promise<AudioBuffer> {
         credentials: 'include'
-        return fetch('samples/snare.wav')
+        return fetch('http://jacknice.com/samples/snare.wav')
         .then(response => response.arrayBuffer())
         .then(buffer => {
             return new Promise((resolve, reject) => {
@@ -80,7 +80,7 @@ export class AppComponent implements OnInit  {
     
     fetchKick(): Promise<AudioBuffer> {
         credentials: 'include'
-        return fetch('samples/kick.wav')
+        return fetch('http://jacknice.com/samples/kick.wav')
         .then(response => response.arrayBuffer())
         .then(buffer => {
             return new Promise((resolve, reject) => {
@@ -95,7 +95,7 @@ export class AppComponent implements OnInit  {
     
     fetchOpenhh(): Promise<AudioBuffer> {
         credentials: 'include'
-        return fetch('samples/openhh.wav')
+        return fetch('http://jacknice.com/samples/openhh.wav')
         .then(response => response.arrayBuffer())
         .then(buffer => {
             return new Promise((resolve, reject) => {
@@ -110,7 +110,7 @@ export class AppComponent implements OnInit  {
     
     fetchClosedhh(): Promise<AudioBuffer> {
         credentials: 'include'
-        return fetch('samples/closedhh.wav')
+        return fetch('http://jacknice.com/samples/closedhh.wav')
         .then(response => response.arrayBuffer())
         .then(buffer => {
             return new Promise((resolve, reject) => {
