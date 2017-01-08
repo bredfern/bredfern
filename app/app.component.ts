@@ -2,7 +2,7 @@ import { Component } from '@angular/core';
 
 @Component({
   selector: 'my-app',
-  templateUrl: 'https://angularsampler-bredfern1.c9users.io/templates/app.component.html'
+  templateUrl: 'templates/app.component.html'
 })
 
 export class AppComponent implements OnInit  {
@@ -65,7 +65,7 @@ export class AppComponent implements OnInit  {
     
     fetchSnare(): Promise<AudioBuffer> {
         credentials: 'include'
-        return fetch('https://angularsampler-bredfern1.c9users.io/samples/snare.wav')
+        return fetch('samples/snare.wav')
         .then(response => response.arrayBuffer())
         .then(buffer => {
             return new Promise((resolve, reject) => {
@@ -80,7 +80,7 @@ export class AppComponent implements OnInit  {
     
     fetchKick(): Promise<AudioBuffer> {
         credentials: 'include'
-        return fetch('https://angularsampler-bredfern1.c9users.io/samples/kick.wav')
+        return fetch('samples/kick.wav')
         .then(response => response.arrayBuffer())
         .then(buffer => {
             return new Promise((resolve, reject) => {
@@ -95,7 +95,7 @@ export class AppComponent implements OnInit  {
     
     fetchOpenhh(): Promise<AudioBuffer> {
         credentials: 'include'
-        return fetch('https://angularsampler-bredfern1.c9users.io/samples/openhh.wav')
+        return fetch('samples/openhh.wav')
         .then(response => response.arrayBuffer())
         .then(buffer => {
             return new Promise((resolve, reject) => {
@@ -110,7 +110,7 @@ export class AppComponent implements OnInit  {
     
     fetchClosedhh(): Promise<AudioBuffer> {
         credentials: 'include'
-        return fetch('https://angularsampler-bredfern1.c9users.io/samples/closedhh.wav')
+        return fetch('samples/closedhh.wav')
         .then(response => response.arrayBuffer())
         .then(buffer => {
             return new Promise((resolve, reject) => {
