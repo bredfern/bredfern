@@ -1,0 +1,32 @@
+h1 {
+  color: #369;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 250%;
+  text-align:center;
+}
+
+body {
+  background: #f06d06 url("https://angularsampler-bredfern1.c9users.io/templates/logo.svg");
+  background-size:cover;
+  font-size: 80%;
+  padding: 20px;
+}
+
+main {
+  display:flex;
+  justify-content:center;
+  align-items:center;
+}
+
+main div {
+  background: black;
+  color: white;
+  width: 50%;
+  transform: translate(-50%, -50%);
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  padding: 20px;
+  resize: both;
+  overflow: auto;
+}
