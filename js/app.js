@@ -1,19 +1,31 @@
 var audioContext = new AudioContext();
 var osc = audioContext.createOscillator();
 
-var real = new Float32Array([0,0.4,0.4,1,1,1,0.3,0.7,0.6,0.5,0.9,0.8]);
-var imag = new Float32Array(real.length);
+// Source: http://chromium.googlecode.com/svn/trunk/samples/audio/wave-tables/Organ_2
+
+var c = tables.real.length;
+var real = new Float32Array(c);
+var imag = new Float32Array(c);
+for (var i = 0; i < c; i++) {
+  real[i] = tables.real[i];
+  imag[i] = tables.imag[i];
+}
+
 var hornTable = audioContext.createPeriodicWave(real, imag);
 
+
 function toggle() {     $("button").toggle();
-                  }
+}
+
 function play() {
   osc = audioContext.createOscillator();
-  osc.setPeriodicWave(hornTable);               
-  osc.frequency.value = 160;
+  osc.setPeriodicWave(hornTable);    			
+  osc.frequency.value = 220;
   osc.connect(audioContext.destination);
   osc.start(0);
 }
 function stop() {
   osc.disconnect();
 }
+
+
