@@ -37,7 +37,7 @@
         defaultExtension: 'js'
       }
     },
-    baseURL: 'http://jacknice.com/'
-    //baseUrl: 'https://angularsampler-bredfern1.c9users.io/'
+    // baseURL: 'https://angularsampler-bredfern1.c9users.io'
+    baseURL: 'http://jacknice.com'
   });
 })(this);
