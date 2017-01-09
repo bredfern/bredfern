@@ -1,24 +1,23 @@
 <!DOCTYPE html>
 <html>
-  <head>
-    <title>Jack Nice Drums</title>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" href="styles.css">
-
-    <!-- Polyfill(s) for older browsers -->
-    <script src="node_modules/core-js/client/shim.min.js"></script>
-
-    <script src="node_modules/zone.js/dist/zone.js"></script>
-    <script src="node_modules/systemjs/dist/system.src.js"></script>
-
-    <script src="systemjs.config.js"></script>
-    <script>
-      System.import('app').catch(function(err){ console.error(err); });
-    </script>
-  </head>
-
-  <body>
-    <my-app>Loading AppComponent content here ...</my-app>
-  </body>
+<head>
+  <title>Jack Nice Drums</title>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <main>
+    <div>
+      <h1>Jack Nice</h1>
+      <button onclick="play();toggle();">Play</button>  
+      <button onclick="stop();toggle();" style="display:none">Stop</button>
+    </div>
+  </main>
+  <script
+  src="https://code.jquery.com/jquery-3.1.1.slim.min.js"
+  integrity="sha256-/SIrNqv8h6QGKDuNoLGA4iret+kyesCkHGzVUUV0shc="
+  crossorigin="anonymous"></script>
+<script src="js/app.js"></script>
+</body>
 </html>
