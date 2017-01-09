@@ -55,7 +55,7 @@ var AppComponent = (function () {
     AppComponent.prototype.fetchSnare = function () {
         var _this = this;
         credentials: 'include';
-        return fetch('https://angularsampler-bredfern1.c9users.io/samples/snare.wav')
+        return fetch('samples/snare.wav')
             .then(function (response) { return response.arrayBuffer(); })
             .then(function (buffer) {
             return new Promise(function (resolve, reject) {
@@ -66,7 +66,7 @@ var AppComponent = (function () {
     AppComponent.prototype.fetchKick = function () {
         var _this = this;
         credentials: 'include';
-        return fetch('https://angularsampler-bredfern1.c9users.io/samples/kick.wav')
+        return fetch('samples/kick.wav')
             .then(function (response) { return response.arrayBuffer(); })
             .then(function (buffer) {
             return new Promise(function (resolve, reject) {
@@ -77,7 +77,7 @@ var AppComponent = (function () {
     AppComponent.prototype.fetchOpenhh = function () {
         var _this = this;
         credentials: 'include';
-        return fetch('https://angularsampler-bredfern1.c9users.io/samples/openhh.wav')
+        return fetch('samples/openhh.wav')
             .then(function (response) { return response.arrayBuffer(); })
             .then(function (buffer) {
             return new Promise(function (resolve, reject) {
@@ -88,7 +88,7 @@ var AppComponent = (function () {
     AppComponent.prototype.fetchClosedhh = function () {
         var _this = this;
         credentials: 'include';
-        return fetch('https://angularsampler-bredfern1.c9users.io/samples/closedhh.wav')
+        return fetch('samples/closedhh.wav')
             .then(function (response) { return response.arrayBuffer(); })
             .then(function (buffer) {
             return new Promise(function (resolve, reject) {
@@ -151,7 +151,7 @@ var AppComponent = (function () {
     AppComponent = __decorate([
         core_1.Component({
             selector: 'my-app',
-            templateUrl: 'https://angularsampler-bredfern1.c9users.io/templates/app.component.html'
+            templateUrl: 'templates/app.component.html'
         }), 
         __metadata('design:paramtypes', [])
     ], AppComponent);

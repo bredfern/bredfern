@@ -36,6 +36,8 @@
       rxjs: {
         defaultExtension: 'js'
       }
-    }
+    },
+    baseURL: 'http://jacknice.com/'
+    //baseUrl: 'https://angularsampler-bredfern1.c9users.io/'
   });
 })(this);
