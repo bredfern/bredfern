@@ -1,0 +1,56 @@
+<template>
+  <v-layout
+    column
+    justify-center
+    align-center
+  >
+    <v-flex
+      xs12
+      sm8
+      md6
+    >
+      <div class="text-xs-center">
+	<redfern-logo />
+        <redfern-image />
+      </div>
+      <v-card>
+        <v-card-title class="headline">Full Web Stack Develper</v-card-title>
+        <v-card-text>
+          <p> I am a fullstack web and webrtc developer and my primary tool at the moment is vuejs and node/express although I have also worked with socket.io, and with other languages, rails, php, flask and django, as well as tensorflow.</p>
+	  <p>Currently I'm teaching myself rust, previously I have worked with c/c++ on Linux but I love the rust syntax its easy to dive into when you have been also workig heavily with the es6 version of javascript.</p>
+          <p>To see more of my projects <a
+            href="https://github.com/bredfern"
+            target="_blank"
+          >Github</a>.</p>
+          <p>See my experience <a
+            href="https://www.linkedin.com/in/bredfern/"
+            target="_blank"
+            title="chat"
+          >Linkedin</a>.</p>
+          <br>
+        </v-card-text>
+        <v-card-actions>
+          <v-spacer />
+          <v-btn
+            color="primary"
+            flat
+            nuxt
+            to="/inspire"
+          >Continue</v-btn>
+        </v-card-actions>
+      </v-card>
+    </v-flex>
+  </v-layout>
+</template>
+
+<script>
+import RedfernLogo from '~/components/RedfernLogo.vue'
+import RedfernImage from '~/components/RedfernImage.vue'
+
+export default {
+  components: {
+    RedfernLogo,
+    RedfernImage
+  }
+}
+</script>
