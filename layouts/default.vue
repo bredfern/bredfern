@@ -64,6 +64,11 @@ export default {
           to: '/'
         },
         {
+          icon: 'book',
+          title: 'Articles',
+          to: '/articles'
+        },
+        {
           icon: 'bubble_chart',
           title: 'Inspire',
           to: '/inspire'
