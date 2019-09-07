@@ -27,13 +27,7 @@
               Linkedin
             </a>
           </p>
-          <p>
-            Try my automated music react app
-            <a href="https://bredfern.github.io/reactron/" target="_blank">
-              Reactron
-            </a>
-          </p>
-        </v-card-text>
+          </v-card-text>
       </v-card>
     </v-flex>
   </v-layout>
