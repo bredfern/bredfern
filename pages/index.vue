@@ -6,14 +6,18 @@
         <v-card-title class="headline">Full Web Stack Developer</v-card-title>
         <v-card-text>
           <p>
-            I am a fullstack web, mobile web and webrtc developer and my primary
-            tool at the moment is vuejs and node/express although I have also
-            worke with socket.io, react/redux, vanillajs, angular, and with
-            other languages, python, c#, java for android native and php.
+            I am a fullstack developer, I work with vue primarily although I also enjoy pure standards based work.
+          </p>
+          <p>
+          I've worked with some of the more arcane html5 apis especially webrtc which is the only client api with 
+          a mandatory server side to it.
+          </p>
+          <p>
+          I also work with docker and other dev ops tools and have often worn many hats at the same time.
           </p>
           <p>
             My hobbies are digital signal processing and natural language
-            generation and Native American music and culture.
+            generation and Native American music and culture and playing jazz trombone.
           </p>
           <p>
             To see more of my projects
