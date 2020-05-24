@@ -3,7 +3,7 @@
     <v-flex xs12 sm8 md6>
       <div class="text-xs-center"><redfern-image /></div>
       <v-card>
-        <v-card-title class="headline">Designer/Developer/Digital Artist</v-card-title>
+        <v-card-title class="headline">Designer * Developer * Digital Artist</v-card-title>
         <v-card-text>
           <p>
             I am a fullstack developer, I work with vue primarily although I also enjoy pure standards based work.
@@ -19,6 +19,12 @@
             My hobbies are digital signal processing and natural language
             generation and Native American music and culture and playing jazz trombone.
           </p>
+	  <p>
+            Try out my fun new app, <a href="https://bredfern.github.io/mysynth" target="_blank">MySynth</a>,
+	    a web audio fm synth that runs in your browser.
+	    If you're running a supported browser you can control the synth with midi hardware
+	    using the webmidi protocol.
+	  </p>
           <p>
             To see more of my projects
             <a href="https://github.com/bredfern" target="_blank">
