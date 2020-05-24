@@ -3,7 +3,7 @@
     <v-flex xs12 sm8 md6>
       <div class="text-xs-center"><redfern-image /></div>
       <v-card>
-        <v-card-title class="headline">Full Web Stack Developer</v-card-title>
+        <v-card-title class="headline">Designer/Developer/Digital Artist</v-card-title>
         <v-card-text>
           <p>
             I am a fullstack developer, I work with vue primarily although I also enjoy pure standards based work.
