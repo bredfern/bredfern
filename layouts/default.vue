@@ -45,7 +45,7 @@
       </v-list>
     </v-navigation-drawer>
     <v-footer :fixed="fixed" app>
-      <div>&nbsp;&nbsp;&copy; 2019 Brian Redfern</div>
+      <div>&nbsp;&nbsp;&copy; 2020 Brian Redfern</div>
     </v-footer>
   </v-app>
 </template>
