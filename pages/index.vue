@@ -6,14 +6,13 @@
         <v-card-title class="headline">Designer * Developer * Digital Artist</v-card-title>
         <v-card-text>
           <p>
-            I am a fullstack developer, I work with vue primarily although I also enjoy pure standards based work.
+            I am a fullstack developer, I work with vue, react and vanilla js on the client side and with nodejs, php, and python on the server side.
           </p>
+	  <p>
+	    I am always working on new things, currently working on learning google's golang.
+	  </p>
           <p>
-          I've worked with some of the more arcane html5 apis especially webrtc which is the only client api with 
-          a mandatory server side to it.
-          </p>
-          <p>
-          I also work with docker and other dev ops tools and have often worn many hats at the same time.
+          I also work with docker and other dev ops tools such as kubernetes, jenkins and ansible and have often worn many hats at the same time.
           </p>
           <p>
             My hobbies are digital signal processing and natural language
@@ -24,6 +23,9 @@
 	    a web audio fm synth that runs in your browser.
 	    If you're running a supported browser you can control the synth with midi hardware
 	    using the webmidi protocol.
+	  </p>
+	  <p>
+            I support a <a href="https://github.com/bredfern/docker-janus">docker project</a> for use with janus webrtc server.
 	  </p>
           <p>
             To see more of my projects
